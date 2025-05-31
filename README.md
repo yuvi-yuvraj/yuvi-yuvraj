@@ -30,22 +30,6 @@
 <img align="right" height="150" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e479d24efnea8bax816bwzt93209azw9y7vis1rcubs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yuvi-yuvraj/yuvi-yuvraj/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
