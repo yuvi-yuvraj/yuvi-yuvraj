@@ -1,5 +1,17 @@
 <h2 align="left">Hi 👋! My name is Yuvraj Singh and I'm a MERN Stack developer, from India</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvi-yuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi-yuvraj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi-yuvraj" alt="yuvi-yuvraj" /></a> </p>
+
+- 🔭 I’m currently working on [Real time Chating App](https://realtime-chatapp-apm3.onrender.com/)
+
+- 🌱 I’m currently learning *machine learning*
+
+- 👨‍💻 All of my projects are available at [https://yuvrajsinghportfolio.vercel.app/](https://yuvrajsinghportfolio.vercel.app/)
+
+- 📫 How to reach me *singhyuvraj0717@gmail.com*
+
 ###
 
 <div align="center">
