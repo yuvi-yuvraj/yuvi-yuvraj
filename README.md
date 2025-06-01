@@ -29,6 +29,12 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e479d24efnea8bax816bwzt93209azw9y7vis1rcubs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvi-yuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi-yuvraj" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi-yuvraj" alt="yuvi-yuvraj" /></a> </p>
+
+
+
 
 
 
