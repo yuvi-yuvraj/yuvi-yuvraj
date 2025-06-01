@@ -29,11 +29,12 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e479d24efnea8bax816bwzt93209azw9y7vis1rcubs&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvi-yuvraj&label=Profile%20views&color=0e75b6&style=flat" alt="yuvi-yuvraj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvi-yuvraj" alt="yuvi-yuvraj" /></a> </p>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuvi-yuvraj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuvi-yuvraj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
